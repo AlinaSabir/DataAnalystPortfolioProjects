@@ -1,4 +1,5 @@
 **Data Analytics Portfolio**
+
 Welcome to my Data Analysis Portfolio! 
 This repository showcases a collection of projects that demonstrate my skills in data analysis, visualization, and problem-solving using various tools and technologies.
 
@@ -15,5 +16,6 @@ This repository showcases a collection of projects that demonstrate my skills in
 - [Project 3: Data Professional Survey Dashboard (Power BI)](./survey-dashboard)
 - [Project 4: Sales Analysis (Excel)](./sales-analysis)
 - [Project 5: Time Series Forecasting with Python](./time-series-forecasting)
+
 
 
