@@ -16,7 +16,8 @@ This repository showcases a collection of projects that demonstrate my skills in
 - [Project 3: Data Professional Survey Dashboard (Power BI)](./survey-dashboard)
 - [Project 4: Sales Analysis (Excel)](./sales-analysis)
 - [Project 5: Time Series Forecasting with Python](./time-series-forecasting)
-- [Project 6: Covid Data Analysis (SQL)](./covid_data)
+- [Project 6: Covid Data Analysis (SQL)](./CovidDataExplorationSQL)
+
 
 
 
