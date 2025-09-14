@@ -17,6 +17,8 @@ This repository showcases a collection of projects that demonstrate my skills in
 - [Project 4: Sales Analysis (Excel)](./sales-analysis)
 - [Project 5: Time Series Forecasting with Python](./time-series-forecasting)
 - [Project 6: Covid Data Analysis (SQL)](./CovidDataExplorationSQL)
+- [Project 7: Nashville Housing Dataset: Data Cleaning (SQL)](./NashvilleDatasetSQL)
+
 
 
 
